@@ -1,0 +1,1 @@
+Utilizei um sistema de repetição em Python o "while", aonde para finalizar a repetição necessário, que a pessoa responda quatros vezes o questionário e ao finalizar o sistema devolve, quantos pessoas foram entrevistadas, quantas disseram que *não* e *sim*, quantas mulheres que disseram que *sim* e quantos homens que disseram que *não*.
